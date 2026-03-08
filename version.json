@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
-  "download_url": "https://github.com/toanr1412/toan-tool-sketchup/releases/download/v1.1/tano.rbz",
-  "changelog": "Bản đầu tiên của TANO",
+  "version": "1.2",
+  "download_url": "https://github.com/toanr1412/toan-tool-sketchup/releases/download/v1.2/tano.rbz",
+  "changelog": "Sửa lại slice tool và nâng cấp lib",
   "enabled": true
 }
