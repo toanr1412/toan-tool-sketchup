@@ -1,6 +1,6 @@
 {
-  "version": "2.1",
-  "download_url": "https://github.com/toanr1412/toan-tool-sketchup/releases/download/v2.1/tano.rbz",
-  "changelog": "thêm xếp ván abf và thay đổi gán layer thành chống văng",
+  "version": "2.2",
+  "download_url": "https://github.com/toanr1412/toan-tool-sketchup/releases/download/v2.2/tano.rbz",
+  "changelog": "Thêm chức năng nhận diện không gian trong lib",
   "enabled": true
 }
