@@ -1,6 +1,6 @@
 {
-  "version": "2.4",
-  "download_url": "https://github.com/toanr1412/toan-tool-sketchup/releases/download/v2.4/tano.rbz",
-  "changelog": "thêm check nesting và sửa xep van",
+  "version": "2.5",
+  "download_url": "https://github.com/toanr1412/toan-tool-sketchup/releases/download/v2.5/tano.rbz",
+  "changelog": "sửa xep van",
   "enabled": true
 }
