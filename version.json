@@ -1,6 +1,6 @@
 {
-  "version": "2.7",
-  "download_url": "https://github.com/toanr1412/toan-tool-sketchup/releases/download/v2.7/tano.rbz",
-  "changelog": "sửa lỗi cash skethchup",
+  "version": "2.8",
+  "download_url": "https://github.com/toanr1412/toan-tool-sketchup/releases/download/v2.8/tano.rbz",
+  "changelog": "Thêm Quản lý ván (lib) sửa lại xep van và cắt bánh chưng",
   "enabled": true
 }
