@@ -1,6 +1,6 @@
 {
-  "version": "3.0 ",
-  "download_url": "https://github.com/toanr1412/toan-tool-sketchup/releases/download/v3.0/tano.rbz",
-  "changelog": "Sửa lại xep van, chong vang và thêm thống kê tấm",
+  "version": "3.1 ",
+  "download_url": "https://github.com/toanr1412/toan-tool-sketchup/releases/download/v3.1/tano.rbz",
+  "changelog": "Sửa lại xep van, slice và các tính năng ở chống văng,...",
   "enabled": true
 }
