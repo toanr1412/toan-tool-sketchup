@@ -1,6 +1,6 @@
 {
-  "version": "3.3",
-  "download_url": "https://github.com/toanr1412/toan-tool-sketchup/releases/download/v3.3/tano.rbz",
-  "changelog": "sửa chống văng và fix lỗi thống kê",
+  "version": "3.4",
+  "download_url": "https://github.com/toanr1412/toan-tool-sketchup/releases/download/v3.4/tano.rbz",
+  "changelog": "sửa thống kê",
   "enabled": true
 }
