@@ -1,6 +1,6 @@
 {
-  "version": "3.4",
-  "download_url": "https://github.com/toanr1412/toan-tool-sketchup/releases/download/v3.4/tano.rbz",
-  "changelog": "sửa thống kê",
+  "version": "3.5",
+  "download_url": "https://github.com/toanr1412/toan-tool-sketchup/releases/download/v3.5/tano.rbz",
+  "changelog": "sửa Quản lý ván (lib) sửa lại xep van và cắt bánh chưng",
   "enabled": true
 }
